@@ -1,2 +1,6 @@
-# compress-pdf-online
-Compress PDF files online without losing quality.
+# Compress PDF Online
+
+Reduce PDF file size easily.
+
+## Website
+https://multidevtools.com/
